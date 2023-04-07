@@ -1,0 +1,143 @@
+@media only screen and (max-width: 576px){
+  .architectimg{
+    width: 90%;
+    height: 90%;
+    padding-left: 70px;
+  }
+  label.h1letter{
+    font-size: 28px;
+  }
+    .banner > img {
+        height: 200px;
+        width: 400px;
+        padding-right: 40px;
+        
+        
+    }
+    .banners{
+        flex-direction: column;
+        
+    }
+    .imaged >img{
+        height: 250px;
+        width: 250px;
+    }
+    .imaged{
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .text{
+        line-height: 40px;
+    }
+  .section2{
+    flex-direction: column;
+  }
+  .SponesorNames > img{
+    height: 95px;
+    width: 330px;
+    
+    padding-left: 90px;
+    
+  }
+  .gray{
+    filter: grayscale(100%);
+  }
+    .SponesorNames{
+        flex-direction: column;
+        gap: 100px;
+        
+    }
+    .container {
+        max-width: 540px;
+      }
+    .hide {
+        display: none;
+      }
+
+    .facts {
+        margin-top: 18px;
+      }
+    
+      .facts-cards {
+        grid-template-columns: repeat(1, 1fr);
+      }
+    .footer-col{
+      width: 100%;
+  }
+  }
+
+
+
+
+@media(max-width: 767px){
+  .architectimg{
+    width: 90%;
+    height: 90%;
+    padding-left: 70px;
+  }
+  label.h1letter{
+    font-size: 28px;
+  }
+    .banner > img {
+        height: 200px;
+        width: 400px;
+        padding-right: 40px;
+        
+        
+    }
+    .banners{
+        flex-direction: column;
+        
+    }
+    .imaged >img{
+        height: 250px;
+        width: 250px;
+    }
+    .imaged{
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .text{
+        line-height: 40px;
+    }
+  .section2{
+    flex-direction: column;
+  }
+  .SponesorNames > img{
+    height: 95px;
+    width: 330px;
+    
+    padding-left: 90px;
+    
+  }
+  .gray{
+    filter: grayscale(100%);
+  }
+    .SponesorNames{
+        flex-direction: column;
+        gap: 100px;
+        
+    }
+    .container {
+        max-width: 540px;
+      }
+    .hide {
+        display: none;
+      }
+
+    .facts {
+        margin-top: 18px;
+      }
+    
+      .facts-cards {
+        grid-template-columns: repeat(1, 1fr);
+      }
+    .footer-col{
+      width: 100%;
+  }
+    .footer-col{
+      width: 50%;
+      margin-bottom: 30px;
+  }
+  }
+ 
